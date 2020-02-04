@@ -22,7 +22,15 @@
       "publisher": "Microsoft",
       "name": "Base Application",
       "version": "15.0.0.0"
+    },
+    {
+      "appId": "52b97643-f016-446b-9669-c2c15575a162",
+      "name": "table",
+      "publisher": "Default publisher",
+      "version": "1.0.0.0"
     }
+    
+    
   ],
   "screenshots": [],
   "platform": "15.0.0.0",
