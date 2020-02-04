@@ -11,10 +11,14 @@ page 50101 Balls
         {
             repeater(GroupName)
             {
-                field(Name; NameSource)
+                field(Name; Code)
                 {
                     ApplicationArea = All;
 
+                }
+                field(Shape; Shape)
+                {
+                    ApplicationArea = All;
                 }
             }
         }
